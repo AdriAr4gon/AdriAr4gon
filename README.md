@@ -26,19 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- ⭐️ I'm always reading, I'm always testing, I'm always learning.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 I’m currently working on **PHP, Laravel, Javascript, Nodejs, MySQL**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 I am currently **perfecting my level of the languages ​​I have learned and, in addition, I am learning new technologies.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **PHP, Laravel, Javascript, Nodejs, MySQL**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 📫 Feel free to reach me out **adriar4gon@gmail.com**
 <!--Intro end-->
 
 
